@@ -56,6 +56,7 @@ Run notebooks in the following order:
 01_run_qwen_7b.ipynb
 02_run_neutral_2_step.ipynb
 03_results_analysis.ipynb
+04_boostrap_ci.ipynb
 
 # Output files
 
